@@ -5,6 +5,6 @@ def subtract(x,y):
 def multiply(x,y):
     pass
 def divide(x,y):
-    pass
+    change 02 march local machine
 def square(x,y):
     pass
